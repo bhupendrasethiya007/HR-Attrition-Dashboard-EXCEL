@@ -1,6 +1,12 @@
 # HR Attrition Dashboard | Excel
 
-## About the Project
+## Dashboard Preview
+
+![Dashboard](image Dashboard.png)
+
+---
+
+# About the Project
 
 This project focuses on analyzing employee attrition data using an interactive Excel dashboard. The dashboard helps identify the major factors affecting employee attrition, employee demographics, job satisfaction, and workforce trends.
 
@@ -95,30 +101,28 @@ This dashboard can help HR teams:
 
 # Project Workflow
 
-Raw HR Dataset
-↓
-Data Cleaning & Preparation
-↓
-Pivot Table Analysis
-↓
-Charts & Visualizations
-↓
-Interactive Excel Dashboard
-↓
-Business Insights
+Raw HR Dataset  
+↓  
+Data Cleaning & Preparation  
+↓  
+Pivot Table Analysis  
+↓  
+Charts & Visualizations  
+↓  
+Interactive Excel Dashboard  
+↓  
+Business Insights  
 
 ---
 
 # Files Included
 
-* HR ATTRITION DASHBOARD.xlsx
-* HR Dataset.csv
-* dashboard_image.png
-* README.md
+This repository contains 4 files:
 
----
-
-#
+1. HR ATTRITION DASHBOARD.xlsx → Excel Dashboard File  
+2. HR Dataset.csv → Dataset File  
+3. image Dashboard.png → Dashboard Screenshot  
+4. README.md → Project Documentation  
 
 ---
 
@@ -135,5 +139,5 @@ Business Insights
 
 # Author
 
-Bhupendra Sethiya
-Aspiring Data Analyst
+Bhupendra Sethiya  
+Aspiring Data Analyst | SQL | PostgreSQL | Power BI | Excel | Python
