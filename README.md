@@ -98,6 +98,12 @@ This dashboard can help HR teams:
 * Support data-driven HR decisions
 
 ---
+# Dashboard Preview
+
+<p align="center">
+  <img src="image Dashboard.png" width="1000">
+</p>
+
 
 # Project Workflow
 
