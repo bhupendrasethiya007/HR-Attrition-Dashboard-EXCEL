@@ -1,9 +1,4 @@
 # HR Attrition Dashboard | Excel
-
-## Dashboard Preview
-
-![Dashboard](image Dashboard.png)
-
 ---
 
 # About the Project
